@@ -2,6 +2,15 @@
 
 An intelligent IT support agent built with Microsoft Foundry and Azure AI Services. This agent leverages Azure's AI capabilities to provide automated IT support, data analysis, and file processing.
 
+<img width="1470" height="956" alt="Screenshot 2026-06-12 at 5 48 47 PM" src="https://github.com/user-attachments/assets/e8f3162f-2e8c-443a-a25b-070f579d1c83" />
+
+<img width="1470" height="956" alt="Screenshot 2026-06-12 at 5 52 17 PM" src="https://github.com/user-attachments/assets/836a57aa-e04b-468a-8db6-b1b66393ddab" />
+
+<img width="1470" height="956" alt="Screenshot 2026-06-12 at 5 54 43 PM" src="https://github.com/user-attachments/assets/203a8fef-937b-431d-b074-4e26b6afcdbc" />
+
+<img width="1470" height="956" alt="Screenshot 2026-06-12 at 5 55 15 PM" src="https://github.com/user-attachments/assets/d6fc1b7c-7853-4044-ada9-abae2555fb91" />
+
+
 ## Features
 
 - **Conversational Interface**: Interactive chat-based IT support assistant
